@@ -15,7 +15,7 @@ export function TaskList() {
   const [tasks, setTasks] = useState<Task[]>([]);
   const [newTaskTitle, setNewTaskTitle] = useState('');
 
-  function handleCreateNewTask() {
+  function handleCreateNewTask(){
     // Crie uma nova task com um id random, não permita criar caso o título seja vazio.
     if(!newTaskTitle) return;
     const newTask = {
