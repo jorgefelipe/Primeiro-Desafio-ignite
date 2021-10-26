@@ -11,13 +11,10 @@
 #### 🔗 Link para o passo a passo do projeto
 
 [Desafio](https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d)
-
 &nbsp;
-
 ## 📝 Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo de [LICENÇA](https://github.com/GBDev13/ignews/blob/main/LICENSE) para detalhes.
-
 
 ---
 
