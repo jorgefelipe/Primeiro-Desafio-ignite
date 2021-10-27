@@ -1,16 +1,42 @@
 # Desafio Conceitos do React 
 
 
-### Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
+##### Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
 
 - Adicionar uma nova tarefa
 - Remover uma tarefa
 - Marcar e desmarcar uma tarefa como concluída
 
+## Image da home
+
+<img src="https://github.com/jorgefelipe/primeiro-desafio-ignite/blob/main/unknown.png" width="100%" />
+
+## GIF de como usar
+
+![desmonstração](https://github.com/jorgefelipe/primeiro-desafio-ignite/blob/main/desmonstra%C3%A7%C3%A3o.gif)
+
+
+## ⚙️ Instalação
+```
+# Abra um terminal e copie este repositório com o comando
+$ git clone ...
+```
+
+```
+# Acesse a pasta da aplicação
+$ cd primeiro-desafio-ignite
+
+# Instale as dependências
+$ yarn
+
+
+# Inicie a aplicação
+$ yarn dev 
+
+```
 
 #### 🔗 Link para o passo a passo do projeto
 
-[Desafio](https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d)
 &nbsp;
 ## 📝 Licença
 
